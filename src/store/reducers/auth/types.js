@@ -1,0 +1,7 @@
+export const LOGIN = {
+  REQUEST: 'LOGIN_REQUEST',
+  RECEIVE: 'LOGIN_RECEIVE',
+  FAILURE: 'LOGIN_FAILURE',
+}
+
+export const LOGOUT = 'LOGOUT'
